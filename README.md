@@ -3,7 +3,11 @@
 [![YOUR-USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsmft&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsmft&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hsmft&theme=dracula)](https://git.demolab.com/ergo/awesome-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?hsmft&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📬 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/hsmft/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hesamfathi79@gmail.com)
 <!--
 **Hsmft/Hsmft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
