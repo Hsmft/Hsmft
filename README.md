@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,kubernetes,docker,hadoop,spark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,kubernetes,docker,spark,hadoop" />
   </a>
 </p>
 
