@@ -16,7 +16,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hsmft)
 
 <!--
 **Hsmft/Hsmft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
